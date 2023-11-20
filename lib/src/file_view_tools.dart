@@ -48,7 +48,7 @@ class FileViewTools {
   }
 
   /// 获取文件的后缀名称。
-  ///
+
   /// Get the type of the file.
   static String getFileType(String filePath) {
     if (filePath.isEmpty) {
